@@ -1,7 +1,7 @@
 name: Noun
 favicon: null
-layout_spectrum: 0.11856956128031015
-typography_spectrum: 0.4783335376996547
+layout_spectrum: 0.31652340665459633
+typography_spectrum: 0.8111169699113816
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.6031821141950786
-  lightness: 0.040266897762194276
-  saturation: 0.7055121064186096
-  rhythmicContrast: 0.7108745279256254
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.5277794289868325
+  lightness: 0.18556855246424675
+  saturation: 0.9240338203962892
+  rhythmicContrast: 0.7877673706971109
 purpose: []
