@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-19T00:33:28.662Z'
-dateModified: '2016-01-19T00:33:14.835Z'
+datePublished: '2016-01-19T00:37:50.561Z'
+dateModified: '2016-01-19T00:35:28.852Z'
 title: Rose Quartz x Serenity
 author: []
+sourcePath: _posts/2016-01-19-rose-quartz-x-serenity.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-19-rose-quartz-x-serenity.md
-published: true
 url: rose-quartz-x-serenity/index.html
 _type: Article
 
