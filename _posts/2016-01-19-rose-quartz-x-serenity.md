@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-19T00:08:09.508Z'
-dateModified: '2016-01-19T00:07:55.342Z'
+datePublished: '2016-01-19T00:32:19.153Z'
+dateModified: '2016-01-19T00:32:01.855Z'
 title: Rose Quartz x Serenity
 author: []
 authors: []
@@ -22,7 +22,6 @@ url: rose-quartz-x-serenity/index.html
 _type: Article
 
 ---
-Rose Quartz x Serenity
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/43b92da7-d42c-4986-84aa-134484d82fa8.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6dd56770-bea2-4987-8b7d-f3fb2c2e7212.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c061c84-68ed-4545-b6ee-a3f17f7d3cc1.jpg)
+## Rose Quartz x Serenity
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/59cfd379-970b-4871-8035-0e4771e9c796.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1fa1057c-0100-4a13-a59b-51ee4c0503a8.jpg)
