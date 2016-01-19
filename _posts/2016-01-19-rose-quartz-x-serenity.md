@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-19T00:32:19.153Z'
-dateModified: '2016-01-19T00:32:01.855Z'
+datePublished: '2016-01-19T00:33:28.662Z'
+dateModified: '2016-01-19T00:33:14.835Z'
 title: Rose Quartz x Serenity
 author: []
 authors: []
